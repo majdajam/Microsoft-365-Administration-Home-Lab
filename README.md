@@ -95,6 +95,7 @@ Performed a user password reset to simulate a Help Desk request.
 ## MFA Configuration
 
 Configured Microsoft Authenticator and MFA security settings.
+<img width="950" height="432" alt="Screenshot 2026-07-27 165234" src="https://github.com/user-attachments/assets/d7b7084c-1151-41ba-bc9d-6fe518c65ba4" />
 <img width="1320" height="1301" alt="WhatsApp Image 2026-07-27 at 5 54 40 PM" src="https://github.com/user-attachments/assets/44acdea5-26db-4939-ba9f-8bde4839c9e9" />
 
 ---
